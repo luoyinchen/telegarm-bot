@@ -1,0 +1,6 @@
+#telegarm 机器人参数
+telegram-bots:
+  botName: youBotName
+  botToken: youBotToken
+  #是否开启机器人注册
+  enable-robot-registration: false
